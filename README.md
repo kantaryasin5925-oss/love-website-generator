@@ -57,14 +57,15 @@ const CONFIG = {
 ## 🎨 Features Overview
 
 ### 💕 Interactive Love Section
-- Click the love button to reveal a hidden love note
-- Beautiful heart burst animation
-- Customizable love message
-
+Aşkımm Benimmm seni çok seviyorummm seni çok özledimm yavrumm bebeğimmm benim 
+Ben her zaman senin yanındayım bitanemmm sakın üzülme 
 ### 🎮 Kiss Counter Game
 - Send virtual kisses to your partner
 - Special messages at 10, 50, and 100 kisses
 - Animated kiss effects
+- 10😗 
+- 50😚
+- 100😘💋😘💋 
 
 ### 💫 Memory Gallery
 - Three interactive memory cards
@@ -72,7 +73,7 @@ const CONFIG = {
 - Customizable memory descriptions
 
 ### ❤️ Love Meter
-- Shows infinite love (∞%)
+- Shows infinite love (∞100%)
 - Animated love meter
 - Beautiful gradient design
 
