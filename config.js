@@ -44,7 +44,7 @@ const CONFIG = {
     },
     
     // Memory effect messages
-    memoryMessages: {seni hiç bir zaman sevmeyi bırakmıcam yavrum sakın sende bunu unutma tamam mı seni çookkk seviyorummmmm
+    memoryMessages: {seni hiç bir zaman Sevmeyi bırakmıcam yavrum sakın sende bunu unutma tamam mı seni çookkk seviyorummmmm
         lateNight: "Those late nights talking with you are my favorite memories 🌙✨",
         firstMeeting: "I know the day we meet will be magical and unforgettable 💫💕",
         care: "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍"
