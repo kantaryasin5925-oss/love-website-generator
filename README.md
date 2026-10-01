@@ -33,16 +33,13 @@ Edit the `config.js` file to personalize your love website:
 ```javascript
 const CONFIG = {
     // Your partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
+    partnerName: "FATMA",
     
     // Your name (optional, for signature)
-    yourName: "Your Name",
+    yourName: "YASİN",
     
     // Custom messages
-    messages: {
-        subtitle: "you light up my world in ways words can't express ✨",
-        loveNote: "your personalized love message here...",
-        // ... more customizable messages
+    messages: ( Aşkım benim seni çok seviyorum lütfen beni affet tek kalma ben her zaman yanındayım seni çok seviyorum bitanemmmm 
     }
 };
 ```
