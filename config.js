@@ -3,10 +3,10 @@
 
 const CONFIG = {
     // Partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
+    partnerName: "FATMA",
     
     // Your name (optional, for signature)
-    yourName: "Your Name",
+    yourName: "YASİN,
     
     // Custom messages
     messages: {
@@ -25,26 +25,26 @@ const CONFIG = {
     },
     
     // Character descriptions
-    characters: {
+    characters: {ÇOOOK GÜZELSİN YAVRUMM 
         partner: "My beautiful angel",
         you: "Forever yours"
     },
     
     // Special messages for different kiss counts
-    kissMessages: {
+    kissMessages: {100
         10: "10 kisses! You're so sweet! 💕",
         50: "50 kisses! I'm falling deeper in love! 💖",
         100: "100 kisses! You're my everything! 💘"
     },
     
-    // Character interaction messages
+    // Character interaction O GÖRÜNTÜLÜ KONUŞMALARIMIZmessages
     characterMessages: {
         partner: "you're the most beautiful person in the world! 💕",
         you: "I'm so lucky to have you in my life! 💖"
     },
     
     // Memory effect messages
-    memoryMessages: {
+    memoryMessages: { SENİ ÇOOOK SEVİYORUMMMMMM AŞKIMMMM
         lateNight: "Those late nights talking with you are my favorite memories 🌙✨",
         firstMeeting: "I know the day we meet will be magical and unforgettable 💫💕",
         care: "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍"
