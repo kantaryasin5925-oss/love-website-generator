@@ -18,33 +18,33 @@ const CONFIG = {
     },
     
     // Memory descriptions
-    memories: {
+    memories: {seni çok seviyorummm bebeğimmm sen benim herşeyimmainn
         lateNight: "Those endless conversations that made us forget about time",
         firstMeeting: "I know the day we meet will be magical and unforgettable",
         care: "Your caring nature, sweet voice, and adorable cuteness"
     },
     
     // Character descriptions
-    characters: {
+    characters: {sen çoook güzelsinn aşkımm 
         partner: "My beautiful angel",
         you: "Forever yours"
     },
     
     // Special messages for different kiss counts
-    kissMessages: {
+    kissMessages: {100
         10: "10 kisses! You're so sweet! 💕",
         50: "50 kisses! I'm falling deeper in love! 💖",
         100: "100 kisses! You're my everything! 💘"
     },
     
     // Character interaction messages
-    characterMessages: {
+    characterMessages: {bizz hiç bir zamann birbirimizi bırakmıcazz
         partner: "you're the most beautiful person in the world! 💕",
         you: "I'm so lucky to have you in my life! 💖"
     },
     
     // Memory effect messages
-    memoryMessages: {
+    memoryMessages: {seni hiç bir zaman sevmeyi bırakmıcam yavrum sakın sende bunu unutma tamam mı seni çookkk seviyorummmmm
         lateNight: "Those late nights talking with you are my favorite memories 🌙✨",
         firstMeeting: "I know the day we meet will be magical and unforgettable 💫💕",
         care: "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍"
